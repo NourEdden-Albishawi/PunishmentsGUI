@@ -1,0 +1,11 @@
+name: PunishmentsGUI
+version: 1.0-SNAPSHOT
+author: Al3mid3x
+main: com.ultimismc.punishmentsgui.PunishmentsGUI
+api-version: 1.16
+commands:
+  punish:
+    description: Opens the punishment GUI.
+    usage: /punish
+    permission: punishmentsgui.punish
+    permission-message: You do not have permission to use this command.
